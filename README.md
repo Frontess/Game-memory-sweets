@@ -1,4 +1,7 @@
-## Game memory sweets / Игра найди пару сладостей
+## Game memory sweets / Игра найди пару сладостей    
+
+****
+
 
 Игра аналогична игре ["Найди пару цифр"](https://github.com/Frontess/Game_memory_numbers)
 
@@ -13,15 +16,13 @@
 
 :doughnut: Технологический стек: JavaScript, HTML, CSS.
 
-:100: Вы можете изменить цветовое оформление игры на своё усмотрение в файле `style.css`.
+:100: Вы можете изменить цветовое оформление игры на своё усмотрение в файле `style.css`.    
 
-
+****
 
 
 <div id="footer">
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NlNmdrc3Nhdndjb3N4MmxyZWUxdDRlNDlhemVpbDNycTBhZzhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLp6lD7DNVvGQaY6fi/giphy-downsized-large.gif" width="350" />
-
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc5aW1mZjBiajFvYTgzdWZ5MGRncmVsZ203ZWYzeWNzenpmYzgxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4w3xNt1BpCYiQ/giphy.gif" width="300" />
 
 </div>
