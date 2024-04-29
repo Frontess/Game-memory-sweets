@@ -3,7 +3,7 @@
 ****
 
 
-Игра аналогична игре ["Найди пару цифр"](https://github.com/Frontess/Game_memory_numbers)
+Игра аналогична игре ["Найди пару цифр"](https://github.com/Frontess/Game_memory_numbers) и ["Найди пару цифр с адаптивной версткой"](https://github.com/Frontess/Memory-game)
 
 :doughnut: Оформление игры: 
 - игровое поле разделено на 16 одинаковых карточек, за которыми спрятаны восемь пар сладостей.
