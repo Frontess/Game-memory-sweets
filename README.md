@@ -2,7 +2,7 @@
 
 ****
 
-Игра аналогична игре ["Найди пару цифр"](https://github.com/Frontess/Game_memory_numbers) и ["Найди пару цифр с адаптивной версткой"](https://github.com/Frontess/Memory-game)    
+#### Игра аналогична игре ["Найди пару цифр"](https://github.com/Frontess/Game_memory_numbers) и игре ["Найди пару цифр с адаптивной версткой"](https://github.com/Frontess/Memory-game)    
 
 <img width="1154" alt="Снимок экрана 2024-04-29 в 18 00 38" src="https://github.com/Frontess/Game-memory-sweets/assets/127450758/43006318-fb14-4fae-969b-a4ed70a64ba2">
 
